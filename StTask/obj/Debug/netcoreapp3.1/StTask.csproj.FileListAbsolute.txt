@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\StTask\StTask\bin\Debug\netcoreapp3.1\StTask.exe
+C:\Users\Admin\source\repos\StTask\StTask\bin\Debug\netcoreapp3.1\StTask.deps.json
+C:\Users\Admin\source\repos\StTask\StTask\bin\Debug\netcoreapp3.1\StTask.runtimeconfig.json
+C:\Users\Admin\source\repos\StTask\StTask\bin\Debug\netcoreapp3.1\StTask.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\StTask\StTask\bin\Debug\netcoreapp3.1\StTask.dll
+C:\Users\Admin\source\repos\StTask\StTask\bin\Debug\netcoreapp3.1\StTask.pdb
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.dll
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.pdb
+C:\Users\Admin\source\repos\StTask\StTask\obj\Debug\netcoreapp3.1\StTask.genruntimeconfig.cache
